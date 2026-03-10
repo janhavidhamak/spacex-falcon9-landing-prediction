@@ -1,1 +1,13 @@
 
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+requests
+beautifulsoup4
+plotly
+scipy
+jupyter
+sqlalchemy
+python
