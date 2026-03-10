@@ -35,7 +35,7 @@ reusing the first stage. Predicting landing success helps estimate launch costs.
 |-------|----------|
 | Logistic Regression | 83.33% |
 | Support Vector Machine | 83.33% |
-| Decision Tree | 94,4% |
+| Decision Tree | 94.4% |
 | K-Nearest Neighbors | 83.34% |
 
 ##  Key Findings
